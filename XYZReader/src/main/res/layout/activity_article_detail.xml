@@ -19,7 +19,7 @@
             android:layout_height="?android:attr/actionBarSize"
             android:background="?android:attr/selectableItemBackgroundBorderless"
             android:contentDescription="@string/up"
-            android:src="@drawable/ic_arrow_back"
+            android:src="@drawable/ic_arrow_back_24dp"
             android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
     </FrameLayout>
 </FrameLayout>
